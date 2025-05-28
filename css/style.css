@@ -125,7 +125,7 @@ section {
     width: 100%;
     height: 100%;
     padding: 8rem 6% 2rem;
-    /* background: var(--bg-color); */
+    background: var(--bg-color);
     visibility: hidden;
     opacity: 0;
     overflow: hidden;
@@ -969,6 +969,7 @@ section.active {
 @media screen and (max-width: 450px) {
     html {
         font-size: 45%;
+        text-align: center;
     }
     .logo {
         font-size: 2.8rem;
