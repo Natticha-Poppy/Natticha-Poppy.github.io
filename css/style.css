@@ -969,6 +969,8 @@ section.active {
 @media screen and (max-width: 450px) {
     html {
         font-size: 45%;
+    }
+    .home {
         text-align: center;
     }
     .logo {
